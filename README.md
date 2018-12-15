@@ -17,3 +17,7 @@ Before starting make sure you have the Arduino IDE and Processing3 IDE installed
 3) Make sure the correct port number is fed into the code before running it.
 
 ### Snapshot
+
+This is the only blurry image I have of the project. :sweat_smile:
+
+![screenshot from 2018-12-15 21-03-40](https://user-images.githubusercontent.com/43226067/50041791-6ca3d180-0080-11e9-8e3b-e2e997c2092a.png)
