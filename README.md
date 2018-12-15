@@ -1,0 +1,19 @@
+# Arduino Project (3-DOF Arm)
+
+This is the code used in making a robotic arm which is controlled by Processing3(IDE) - Arduino(IDE) interface.
+
+### Materials Used
+
+1. 4 Mini/Micro Servo Motors 
+2. 1 Arduino Uno
+3. Cardboard and straws
+4. Jumper wires
+
+### Steps To Use:
+Before starting make sure you have the Arduino IDE and Processing3 IDE installed.
+
+1) Open the .ino code on Arduino IDE
+2) After opening the .ino file open the .pde file on Processing3 IDE
+3) Make sure the correct port number is fed into the code before running it.
+
+### Snapshot
